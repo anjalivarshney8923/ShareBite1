@@ -20,15 +20,7 @@
             color: #2c3e50;
         }
         
-        .hero-section {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            padding: 3rem;
-            margin: 2rem 0;
-            text-align: center;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-        }
+        
         
         .main-title {
             font-size: 3.5rem;
